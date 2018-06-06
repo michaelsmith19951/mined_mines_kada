@@ -4,13 +4,13 @@
 # 100.times do 
 # 	p 1
 # end
-num = 1
+number = 1
 
 100.times do
-	if num == 3
+	if number == 3
 		puts "minds"
 	else
-		puts num
+		puts number
 	end
-	num = num + 1
+	number = number + 1
 end
