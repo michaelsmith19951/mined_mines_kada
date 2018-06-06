@@ -1,0 +1,1 @@
+This is the first Ruby assignment that counts from 1 to 100, using a variable called "number". A conditional statement is used for the number "3", to replace that number with the word "minds".
